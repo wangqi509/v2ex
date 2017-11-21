@@ -21,7 +21,7 @@
 // THE SOFTWARE.
 
 #import "AnimatedGIFImageSerialization.h"
-
+// add
 #import <ImageIO/ImageIO.h>
 #import <MobileCoreServices/MobileCoreServices.h>
 
